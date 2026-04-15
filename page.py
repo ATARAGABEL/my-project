@@ -1,1 +1,1 @@
-print("etti")git 
+print("etti")
